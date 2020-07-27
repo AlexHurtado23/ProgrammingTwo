@@ -7,7 +7,7 @@ Created on Thu Jul 16 08:33:52 2020
 '''TIC-TAC-TOE'''
 '''This game is only for 2 Human Players'''
 
-'''Importing tkinter library'''
+'''Importing tkinter Module'''
 from tkinter import *
 from tkinter import messagebox 
 from tkinter import simpledialog
